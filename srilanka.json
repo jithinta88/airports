@@ -1,0 +1,55 @@
+[{
+        "name": "Bandaranaike Intl Colombo",
+        "country": "Sri Lanka",
+        "iata_code": "CMB",
+        "latlng": {
+            "lat": 7.180756,
+            "lng": 79.884117
+        }
+    },
+    {
+        "name": "Mattala Rajapaksa Intl.",
+        "country": "Sri Lanka",
+        "iata_code": "HRI",
+        "latlng": {
+            "lat": 6.284467,
+            "lng": 81.124128
+        }
+    },
+    {
+        "name": "Sigiriya Airport",
+        "country": "Sri Lanka",
+        "iata_code": "GIU",
+        "latlng": {
+            "lat": 7.57212,
+            "lng": 80.43412
+        }
+    },
+    {
+        "name": "Koggala Airport",
+        "country": "Sri Lanka",
+        "iata_code": "KCT",
+        "latlng": {
+            "lat": 5.99368,
+            "lng": 80.3203
+        }
+    },
+    {
+        "name": "Dickwella Airport",
+        "country": "Sri Lanka",
+        "iata_code": "DIW",
+        "latlng": {
+            "lat": 5.966667,
+            "lng": 80.683333
+        }
+    },
+    {
+        "name": "China Bay",
+        "country": "Sri Lanka",
+        "iata_code": "TRR",
+        "latlng": {
+            "lat": 8.538514,
+            "lng": 81.181853
+        }
+    }
+]

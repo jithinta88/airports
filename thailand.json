@@ -1,0 +1,289 @@
+[{
+        "name": "Suvarnabhumi Intl",
+        "country": "Thailand",
+        "iata_code": "BKK",
+        "latlng": {
+            "lat": 13.681108,
+            "lng": 100.747283
+        }
+    },
+    {
+        "name": "Phuket Intl",
+        "country": "Thailand",
+        "iata_code": "HKT",
+        "latlng": {
+            "lat": 8.1132,
+            "lng": 98.316872
+        }
+    },
+    {
+        "name": "Don Muang Intl",
+        "country": "Thailand",
+        "iata_code": "DMK",
+        "latlng": {
+            "lat": 13.912583,
+            "lng": 100.60675
+        }
+    },
+    {
+        "name": "Chiang Mai Intl",
+        "country": "Thailand",
+        "iata_code": "CNX",
+        "latlng": {
+            "lat": 18.766847,
+            "lng": 98.962644
+        }
+    },
+    {
+        "name": "Samui",
+        "country": "Thailand",
+        "iata_code": "USM",
+        "latlng": {
+            "lat": 9.547794,
+            "lng": 100.062272
+        }
+    },
+    {
+        "name": "Krabi",
+        "country": "Thailand",
+        "iata_code": "KBV",
+        "latlng": {
+            "lat": 8.095969,
+            "lng": 98.988764
+        }
+    },
+    {
+        "name": "Chiang Rai Intl",
+        "country": "Thailand",
+        "iata_code": "CEI",
+        "latlng": {
+            "lat": 19.952342,
+            "lng": 99.882928
+        }
+    },
+    {
+        "name": "Udon Thani",
+        "country": "Thailand",
+        "iata_code": "UTH",
+        "latlng": {
+            "lat": 17.386436,
+            "lng": 102.788247
+        }
+    },
+    {
+        "name": "Hat Yai Intl",
+        "country": "Thailand",
+        "iata_code": "HDY",
+        "latlng": {
+            "lat": 6.933206,
+            "lng": 100.392975
+        }
+    },
+    {
+        "name": "Surat Thani",
+        "country": "Thailand",
+        "iata_code": "URT",
+        "latlng": {
+            "lat": 9.1325,
+            "lng": 99.135556
+        }
+    },
+    {
+        "name": "Ubon Ratchathani",
+        "country": "Thailand",
+        "iata_code": "UBP",
+        "latlng": {
+            "lat": 15.251278,
+            "lng": 104.870231
+        }
+    },
+    {
+        "name": "Phitsanulok",
+        "country": "Thailand",
+        "iata_code": "PHS",
+        "latlng": {
+            "lat": 16.782939,
+            "lng": 100.279122
+        }
+    },
+    {
+        "name": "Nan",
+        "country": "Thailand",
+        "iata_code": "NNT",
+        "latlng": {
+            "lat": 18.807914,
+            "lng": 100.783419
+        }
+    },
+    {
+        "name": "Khon Kaen",
+        "country": "Thailand",
+        "iata_code": "KKC",
+        "latlng": {
+            "lat": 16.466628,
+            "lng": 102.783661
+        }
+    },
+    {
+        "name": "Nakhon Phanom",
+        "country": "Thailand",
+        "iata_code": "KOP",
+        "latlng": {
+            "lat": 17.383794,
+            "lng": 104.643022
+        }
+    },
+    {
+        "name": "Nakhon Si Thammarat",
+        "country": "Thailand",
+        "iata_code": "NST",
+        "latlng": {
+            "lat": 8.539617,
+            "lng": 99.944725
+        }
+    },
+    {
+        "name": "Trang",
+        "country": "Thailand",
+        "iata_code": "TST",
+        "latlng": {
+            "lat": 7.508744,
+            "lng": 99.616578
+        }
+    },
+    {
+        "name": "U Taphao Intl",
+        "country": "Thailand",
+        "iata_code": "UTP",
+        "latlng": {
+            "lat": 12.679944,
+            "lng": 101.005028
+        }
+    },
+    {
+        "name": "Mae Sot Airport",
+        "country": "Thailand",
+        "iata_code": "MAQ",
+        "latlng": {
+            "lat": 16.699856,
+            "lng": 98.545056
+        }
+    },
+    {
+        "name": "Chumphon",
+        "country": "Thailand",
+        "iata_code": "CJM",
+        "latlng": {
+            "lat": 10.7112,
+            "lng": 99.361706
+        }
+    },
+    {
+        "name": "Pai",
+        "country": "Thailand",
+        "iata_code": "PYY",
+        "latlng": {
+            "lat": 19.372,
+            "lng": 98.437
+        }
+    },
+    {
+        "name": "Trat",
+        "country": "Thailand",
+        "iata_code": "TDX",
+        "latlng": {
+            "lat": 12.274572,
+            "lng": 102.318958
+        }
+    },
+    {
+        "name": "Ranong",
+        "country": "Thailand",
+        "iata_code": "UNN",
+        "latlng": {
+            "lat": 9.777622,
+            "lng": 98.585483
+        }
+    },
+    {
+        "name": "Buri Ram",
+        "country": "Thailand",
+        "iata_code": "BFV",
+        "latlng": {
+            "lat": 15.229539,
+            "lng": 103.253231
+        }
+    },
+    {
+        "name": "Roi Et",
+        "country": "Thailand",
+        "iata_code": "ROI",
+        "latlng": {
+            "lat": 16.116761,
+            "lng": 103.773797
+        }
+    },
+    {
+        "name": "Mae Hong Son",
+        "country": "Thailand",
+        "iata_code": "HGN",
+        "latlng": {
+            "lat": 19.301667,
+            "lng": 97.975
+        }
+    },
+    {
+        "name": "Sukhothai",
+        "country": "Thailand",
+        "iata_code": "THS",
+        "latlng": {
+            "lat": 17.237992,
+            "lng": 99.818183
+        }
+    },
+    {
+        "name": "Loei",
+        "country": "Thailand",
+        "iata_code": "LOE",
+        "latlng": {
+            "lat": 17.439133,
+            "lng": 101.722064
+        }
+    },
+    {
+        "name": "Sakon Nakhon",
+        "country": "Thailand",
+        "iata_code": "SNO",
+        "latlng": {
+            "lat": 17.195142,
+            "lng": 104.118625
+        }
+    },
+    {
+        "name": "Narathiwat",
+        "country": "Thailand",
+        "iata_code": "NAW",
+        "latlng": {
+            "lat": 6.519922,
+            "lng": 101.7434
+        }
+    },
+    {
+        "name": "Phrae",
+        "country": "Thailand",
+        "iata_code": "PRH",
+        "latlng": {
+            "lat": 18.132169,
+            "lng": 100.164664
+        }
+    },
+    {
+        "name": "Lampang",
+        "country": "Thailand",
+        "iata_code": "LPT",
+        "latlng": {
+            "lat": 18.270933,
+            "lng": 99.504167
+        }
+    }
+]

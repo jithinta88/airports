@@ -1,0 +1,9 @@
+[{
+    "name": "Changi Intl",
+    "country": "Singapore",
+    "iata_code": "SIN",
+    "latlng": {
+        "lat": 1.350189,
+        "lng": 103.994433
+    }
+}]

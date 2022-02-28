@@ -1,0 +1,550 @@
+[{
+        "name": "Soekarno Hatta Intl",
+        "country": "Indonesia",
+        "iata_code": "CGK",
+        "latlng": {
+            "lat": -6.125567,
+            "lng": 106.655897
+        }
+    },
+    {
+        "name": "Bali Ngurah Rai",
+        "country": "Indonesia",
+        "iata_code": "DPS",
+        "latlng": {
+            "lat": -8.748169,
+            "lng": 115.167172
+        }
+    },
+    {
+        "name": "Juanda",
+        "country": "Indonesia",
+        "iata_code": "SUB",
+        "latlng": {
+            "lat": -7.379831,
+            "lng": 112.786858
+        }
+    },
+    {
+        "name": "Hasanuddin",
+        "country": "Indonesia",
+        "iata_code": "UPG",
+        "latlng": {
+            "lat": -5.061631,
+            "lng": 119.554042
+        }
+    },
+    {
+        "name": "Sepinggan",
+        "country": "Indonesia",
+        "iata_code": "BPN",
+        "latlng": {
+            "lat": -1.268272,
+            "lng": 116.894478
+        }
+    },
+    {
+        "name": "Adi Sutjipto",
+        "country": "Indonesia",
+        "iata_code": "JOG",
+        "latlng": {
+            "lat": -7.788181,
+            "lng": 110.431758
+        }
+    },
+    {
+        "name": "Hang Nadim",
+        "country": "Indonesia",
+        "iata_code": "BTH",
+        "latlng": {
+            "lat": 1.121028,
+            "lng": 104.118753
+        }
+    },
+    {
+        "name": "Husein Sastranegara",
+        "country": "Indonesia",
+        "iata_code": "BDO",
+        "latlng": {
+            "lat": -6.900625,
+            "lng": 107.576294
+        }
+    },
+    {
+        "name": "Sam Ratulangi",
+        "country": "Indonesia",
+        "iata_code": "MDC",
+        "latlng": {
+            "lat": 1.549447,
+            "lng": 124.925878
+        }
+    },
+    {
+        "name": "Sultan Syarif Kasim Ii",
+        "country": "Indonesia",
+        "iata_code": "PKU",
+        "latlng": {
+            "lat": 0.460786,
+            "lng": 101.444539
+        }
+    },
+    {
+        "name": "Sentani",
+        "country": "Indonesia",
+        "iata_code": "DJJ",
+        "latlng": {
+            "lat": -2.576953,
+            "lng": 140.516372
+        }
+    },
+    {
+        "name": "Achmad Yani",
+        "country": "Indonesia",
+        "iata_code": "SRG",
+        "latlng": {
+            "lat": -6.971447,
+            "lng": 110.374122
+        }
+    },
+    {
+        "name": "Lombok International Airport",
+        "country": "Indonesia",
+        "iata_code": "LOP",
+        "latlng": {
+            "lat": -8.7573222,
+            "lng": 116.276675
+        }
+    },
+    {
+        "name": "Syamsudin Noor",
+        "country": "Indonesia",
+        "iata_code": "BDJ",
+        "latlng": {
+            "lat": -3.442356,
+            "lng": 114.762553
+        }
+    },
+    {
+        "name": "Pattimura",
+        "country": "Indonesia",
+        "iata_code": "AMQ",
+        "latlng": {
+            "lat": -3.710264,
+            "lng": 128.089136
+        }
+    },
+    {
+        "name": "Sultan Mahmud Badaruddin Ii",
+        "country": "Indonesia",
+        "iata_code": "PLM",
+        "latlng": {
+            "lat": -2.89825,
+            "lng": 104.699903
+        }
+    },
+    {
+        "name": "El Tari",
+        "country": "Indonesia",
+        "iata_code": "KOE",
+        "latlng": {
+            "lat": -10.171583,
+            "lng": 123.671136
+        }
+    },
+    {
+        "name": "Adi Sumarmo Wiryokusumo",
+        "country": "Indonesia",
+        "iata_code": "SOC",
+        "latlng": {
+            "lat": -7.516089,
+            "lng": 110.756892
+        }
+    },
+    {
+        "name": "Jefman",
+        "country": "Indonesia",
+        "iata_code": "SOQ",
+        "latlng": {
+            "lat": -0.926358,
+            "lng": 131.121194
+        }
+    },
+    {
+        "name": "Sultan Babullah",
+        "country": "Indonesia",
+        "iata_code": "TTE",
+        "latlng": {
+            "lat": 0.831414,
+            "lng": 127.381486
+        }
+    },
+    {
+        "name": "Mutiara",
+        "country": "Indonesia",
+        "iata_code": "PLW",
+        "latlng": {
+            "lat": -0.918542,
+            "lng": 119.909642
+        }
+    },
+    {
+        "name": "Juwata",
+        "country": "Indonesia",
+        "iata_code": "TRK",
+        "latlng": {
+            "lat": 3.326694,
+            "lng": 117.565569
+        }
+    },
+    {
+        "name": "Iskandar",
+        "country": "Indonesia",
+        "iata_code": "PKN",
+        "latlng": {
+            "lat": -2.705197,
+            "lng": 111.673208
+        }
+    },
+    {
+        "name": "Depati Amir",
+        "country": "Indonesia",
+        "iata_code": "PGK",
+        "latlng": {
+            "lat": -2.1622,
+            "lng": 106.139064
+        }
+    },
+    {
+        "name": "Minangkabau",
+        "country": "Indonesia",
+        "iata_code": "PDG",
+        "latlng": {
+            "lat": -0.874989,
+            "lng": 100.351881
+        }
+    },
+    {
+        "name": "Rendani",
+        "country": "Indonesia",
+        "iata_code": "MKW",
+        "latlng": {
+            "lat": -0.891833,
+            "lng": 134.049183
+        }
+    },
+    {
+        "name": "Sultan Thaha",
+        "country": "Indonesia",
+        "iata_code": "DJB",
+        "latlng": {
+            "lat": -1.638017,
+            "lng": 103.644378
+        }
+    },
+    {
+        "name": "Supadio",
+        "country": "Indonesia",
+        "iata_code": "PNK",
+        "latlng": {
+            "lat": -0.150711,
+            "lng": 109.403892
+        }
+    },
+    {
+        "name": "Radin Inten II (Branti) Airport",
+        "country": "Indonesia",
+        "iata_code": "TKG",
+        "latlng": {
+            "lat": -5.242339,
+            "lng": 105.178939
+        }
+    },
+    {
+        "name": "Sultan Iskandarmuda",
+        "country": "Indonesia",
+        "iata_code": "BTJ",
+        "latlng": {
+            "lat": 5.523522,
+            "lng": 95.420372
+        }
+    },
+    {
+        "name": "Fatmawati Soekarno",
+        "country": "Indonesia",
+        "iata_code": "BKS",
+        "latlng": {
+            "lat": -3.8637,
+            "lng": 102.339036
+        }
+    },
+    {
+        "name": "Mutiara Ii",
+        "country": "Indonesia",
+        "iata_code": "LBJ",
+        "latlng": {
+            "lat": -8.486656,
+            "lng": 119.88905
+        }
+    },
+    {
+        "name": "H Hasan Aroeboesman",
+        "country": "Indonesia",
+        "iata_code": "ENE",
+        "latlng": {
+            "lat": -8.849294,
+            "lng": 121.660644
+        }
+    },
+    {
+        "name": "H As Hanandjoeddin",
+        "country": "Indonesia",
+        "iata_code": "TJQ",
+        "latlng": {
+            "lat": -2.745722,
+            "lng": 107.754917
+        }
+    },
+    {
+        "name": "Wolter Monginsidi",
+        "country": "Indonesia",
+        "iata_code": "KDI",
+        "latlng": {
+            "lat": -4.081608,
+            "lng": 122.418231
+        }
+    },
+    {
+        "name": "Jalaluddin",
+        "country": "Indonesia",
+        "iata_code": "GTO",
+        "latlng": {
+            "lat": 0.637119,
+            "lng": 122.849858
+        }
+    },
+    {
+        "name": "Moses Kilangin",
+        "country": "Indonesia",
+        "iata_code": "TIM",
+        "latlng": {
+            "lat": -4.528275,
+            "lng": 136.887375
+        }
+    },
+    {
+        "name": "Frans Kaisiepo",
+        "country": "Indonesia",
+        "iata_code": "BIK",
+        "latlng": {
+            "lat": -1.190017,
+            "lng": 136.107997
+        }
+    },
+    {
+        "name": "Fak Fak",
+        "country": "Indonesia",
+        "iata_code": "FKQ",
+        "latlng": {
+            "lat": -2.920192,
+            "lng": 132.267031
+        }
+    },
+    {
+        "name": "Dumatubun Airport",
+        "country": "Indonesia",
+        "iata_code": "LUV",
+        "latlng": {
+            "lat": -5.661619,
+            "lng": 132.731431
+        }
+    },
+    {
+        "name": "Barau(Kalimaru) Airport",
+        "country": "Indonesia",
+        "iata_code": "BEJ",
+        "latlng": {
+            "lat": 2.155497,
+            "lng": 117.432256
+        }
+    },
+    {
+        "name": "Tambolaka Airport",
+        "country": "Indonesia",
+        "iata_code": "TMC",
+        "latlng": {
+            "lat": -9.409717,
+            "lng": 119.244494
+        }
+    },
+    {
+        "name": "Muhammad Salahuddin",
+        "country": "Indonesia",
+        "iata_code": "BMU",
+        "latlng": {
+            "lat": -8.539647,
+            "lng": 118.687322
+        }
+    },
+    {
+        "name": "Tjilik Riwut",
+        "country": "Indonesia",
+        "iata_code": "PKY",
+        "latlng": {
+            "lat": -2.225128,
+            "lng": 113.942661
+        }
+    },
+    {
+        "name": "Kijang",
+        "country": "Indonesia",
+        "iata_code": "TNJ",
+        "latlng": {
+            "lat": 0.922683,
+            "lng": 104.532311
+        }
+    },
+    {
+        "name": "Abdul Rachman Saleh",
+        "country": "Indonesia",
+        "iata_code": "MLG",
+        "latlng": {
+            "lat": -7.926556,
+            "lng": 112.714514
+        }
+    },
+    {
+        "name": "Mopah",
+        "country": "Indonesia",
+        "iata_code": "MKQ",
+        "latlng": {
+            "lat": -8.520294,
+            "lng": 140.418453
+        }
+    },
+    {
+        "name": "Nabire",
+        "country": "Indonesia",
+        "iata_code": "NBX",
+        "latlng": {
+            "lat": -3.368183,
+            "lng": 135.496406
+        }
+    },
+    {
+        "name": "Wai Oti",
+        "country": "Indonesia",
+        "iata_code": "MOF",
+        "latlng": {
+            "lat": -8.640647,
+            "lng": 122.236889
+        }
+    },
+    {
+        "name": "Kaimana",
+        "country": "Indonesia",
+        "iata_code": "KNG",
+        "latlng": {
+            "lat": -3.644517,
+            "lng": 133.695553
+        }
+    },
+    {
+        "name": "Stagen Airport",
+        "country": "Indonesia",
+        "iata_code": "KBU",
+        "latlng": {
+            "lat": -3.29472,
+            "lng": 116.165
+        }
+    },
+    {
+        "name": "Rahadi Usman",
+        "country": "Indonesia",
+        "iata_code": "KTG",
+        "latlng": {
+            "lat": -1.816639,
+            "lng": 109.963483
+        }
+    },
+    {
+        "name": "Bubung",
+        "country": "Indonesia",
+        "iata_code": "LUW",
+        "latlng": {
+            "lat": -1.038919,
+            "lng": 122.771906
+        }
+    },
+    {
+        "name": "Tampa Padang",
+        "country": "Indonesia",
+        "iata_code": "MJU",
+        "latlng": {
+            "lat": -2.583333,
+            "lng": 119.033333
+        }
+    },
+    {
+        "name": "Pomalaa",
+        "country": "Indonesia",
+        "iata_code": "PUM",
+        "latlng": {
+            "lat": -4.183333,
+            "lng": 121.61667
+        }
+    },
+    {
+        "name": "Ranai Airport",
+        "country": "Indonesia",
+        "iata_code": "NTX",
+        "latlng": {
+            "lat": 3.908714,
+            "lng": 108.387897
+        }
+    },
+    {
+        "name": "Mau Hau",
+        "country": "Indonesia",
+        "iata_code": "WGP",
+        "latlng": {
+            "lat": -9.669217,
+            "lng": 120.302006
+        }
+    },
+    {
+        "name": "Naha",
+        "country": "Indonesia",
+        "iata_code": "NAH",
+        "latlng": {
+            "lat": 3.683214,
+            "lng": 125.528019
+        }
+    },
+    {
+        "name": "Babo",
+        "country": "Indonesia",
+        "iata_code": "BXB",
+        "latlng": {
+            "lat": -2.532242,
+            "lng": 133.438894
+        }
+    },
+    {
+        "name": "Kasiguncu",
+        "country": "Indonesia",
+        "iata_code": "PSJ",
+        "latlng": {
+            "lat": -1.416753,
+            "lng": 120.657669
+        }
+    },
+    {
+        "name": "Wamena",
+        "country": "Indonesia",
+        "iata_code": "WMX",
+        "latlng": {
+            "lat": -4.102511,
+            "lng": 138.957372
+        }
+    }
+]

@@ -1,0 +1,190 @@
+[{
+        "name": "Tansonnhat Intl",
+        "country": "Vietnam",
+        "iata_code": "SGN",
+        "latlng": {
+            "lat": 10.818797,
+            "lng": 106.651856
+        }
+    },
+    {
+        "name": "Noibai Intl",
+        "country": "Vietnam",
+        "iata_code": "HAN",
+        "latlng": {
+            "lat": 21.221192,
+            "lng": 105.807178
+        }
+    },
+    {
+        "name": "Danang Intl",
+        "country": "Vietnam",
+        "iata_code": "DAD",
+        "latlng": {
+            "lat": 16.043917,
+            "lng": 108.19937
+        }
+    },
+    {
+        "name": "Vinh Airport",
+        "country": "Vietnam",
+        "iata_code": "VII",
+        "latlng": {
+            "lat": 18.737569,
+            "lng": 105.670764
+        }
+    },
+    {
+        "name": "Cam Ranh Airport",
+        "country": "Vietnam",
+        "iata_code": "CXR",
+        "latlng": {
+            "lat": 11.998153,
+            "lng": 109.219372
+        }
+    },
+    {
+        "name": "Buon Ma Thuot Airport",
+        "country": "Vietnam",
+        "iata_code": "BMV",
+        "latlng": {
+            "lat": 12.668311,
+            "lng": 108.120272
+        }
+    },
+    {
+        "name": "Duong Dong Airport",
+        "country": "Vietnam",
+        "iata_code": "PQC",
+        "latlng": {
+            "lat": 10.227025,
+            "lng": 103.967169
+        }
+    },
+    {
+        "name": "Dalat",
+        "country": "Vietnam",
+        "iata_code": "DLI",
+        "latlng": {
+            "lat": 11.75,
+            "lng": 108.367
+        }
+    },
+    {
+        "name": "Cat Bi International Airport",
+        "country": "Vietnam",
+        "iata_code": "HPH",
+        "latlng": {
+            "lat": 20.819386,
+            "lng": 106.724989
+        }
+    },
+    {
+        "name": "Phu Bai",
+        "country": "Vietnam",
+        "iata_code": "HUI",
+        "latlng": {
+            "lat": 16.401499,
+            "lng": 107.702614
+        }
+    },
+    {
+        "name": "Pleiku Airport",
+        "country": "Vietnam",
+        "iata_code": "PXU",
+        "latlng": {
+            "lat": 14.004522,
+            "lng": 108.017158
+        }
+    },
+    {
+        "name": "Phu Cat Airport",
+        "country": "Vietnam",
+        "iata_code": "UIH",
+        "latlng": {
+            "lat": 13.954986,
+            "lng": 109.042267
+        }
+    },
+    {
+        "name": "Trà Nóc Airport",
+        "country": "Vietnam",
+        "iata_code": "VCA",
+        "latlng": {
+            "lat": 10.085119,
+            "lng": 105.711922
+        }
+    },
+    {
+        "name": "Co Ong Airport",
+        "country": "Vietnam",
+        "iata_code": "VCS",
+        "latlng": {
+            "lat": 8.731831,
+            "lng": 106.632589
+        }
+    },
+    {
+        "name": "Dong Tac",
+        "country": "Vietnam",
+        "iata_code": "TBB",
+        "latlng": {
+            "lat": 13.04955,
+            "lng": 109.333706
+        }
+    },
+    {
+        "name": "Chu Lai",
+        "country": "Vietnam",
+        "iata_code": "VCL",
+        "latlng": {
+            "lat": 15.405944,
+            "lng": 108.705889
+        }
+    },
+    {
+        "name": "Dong Hoi",
+        "country": "Vietnam",
+        "iata_code": "VDH",
+        "latlng": {
+            "lat": 17.515,
+            "lng": 106.590556
+        }
+    },
+    {
+        "name": "Tho Xuan Airport",
+        "country": "Vietnam",
+        "iata_code": "THD",
+        "latlng": {
+            "lat": 19.90167,
+            "lng": 105.46778
+        }
+    },
+    {
+        "name": "Dien Bien Phu Airport",
+        "country": "Vietnam",
+        "iata_code": "DIN",
+        "latlng": {
+            "lat": 21.397481,
+            "lng": 103.007831
+        }
+    },
+    {
+        "name": "Ca Mau",
+        "country": "Vietnam",
+        "iata_code": "CAH",
+        "latlng": {
+            "lat": 9.188049,
+            "lng": 105.174721
+        }
+    },
+    {
+        "name": "Rach Gia",
+        "country": "Vietnam",
+        "iata_code": "VKG",
+        "latlng": {
+            "lat": 9.949676,
+            "lng": 105.133659
+        }
+    }
+]

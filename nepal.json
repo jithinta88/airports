@@ -1,0 +1,82 @@
+[{
+        "name": "Tribhuvan Intl",
+        "country": "Nepal",
+        "iata_code": "KTM",
+        "latlng": {
+            "lat": 27.696583,
+            "lng": 85.3591
+        }
+    },
+    {
+        "name": "Nepalgunj Airport",
+        "country": "Nepal",
+        "iata_code": "KEP",
+        "latlng": {
+            "lat": 28.103633,
+            "lng": 81.667006
+        }
+    },
+    {
+        "name": "Chandragadhi Airport",
+        "country": "Nepal",
+        "iata_code": "BDP",
+        "latlng": {
+            "lat": 26.570822,
+            "lng": 88.079578
+        }
+    },
+    {
+        "name": "Bharatpur Airport",
+        "country": "Nepal",
+        "iata_code": "BHR",
+        "latlng": {
+            "lat": 27.6781,
+            "lng": 84.4294
+        }
+    },
+    {
+        "name": "Dhangarhi",
+        "country": "Nepal",
+        "iata_code": "DHI",
+        "latlng": {
+            "lat": 28.753333,
+            "lng": 80.581944
+        }
+    },
+    {
+        "name": "Tumling Tar",
+        "country": "Nepal",
+        "iata_code": "TMI",
+        "latlng": {
+            "lat": 27.315,
+            "lng": 87.193333
+        }
+    },
+    {
+        "name": "Biratnagar",
+        "country": "Nepal",
+        "iata_code": "BIR",
+        "latlng": {
+            "lat": 26.481453,
+            "lng": 87.264036
+        }
+    },
+    {
+        "name": "Pokhara",
+        "country": "Nepal",
+        "iata_code": "PKR",
+        "latlng": {
+            "lat": 28.200881,
+            "lng": 83.982056
+        }
+    },
+    {
+        "name": "Bhairahawa",
+        "country": "Nepal",
+        "iata_code": "BWA",
+        "latlng": {
+            "lat": 27.505703,
+            "lng": 83.41625
+        }
+    }
+]

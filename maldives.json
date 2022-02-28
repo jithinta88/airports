@@ -1,0 +1,55 @@
+[{
+        "name": "Male Intl",
+        "country": "Maldives",
+        "iata_code": "MLE",
+        "latlng": {
+            "lat": 4.191833,
+            "lng": 73.529128
+        }
+    },
+    {
+        "name": "Gan Island Airport",
+        "country": "Maldives",
+        "iata_code": "GAN",
+        "latlng": {
+            "lat": -0.693342,
+            "lng": 73.1556
+        }
+    },
+    {
+        "name": "Kooddoo",
+        "country": "Maldives",
+        "iata_code": "GKK",
+        "latlng": {
+            "lat": 0.7308,
+            "lng": 73.433
+        }
+    },
+    {
+        "name": "Kadhdhoo Airport",
+        "country": "Maldives",
+        "iata_code": "KDO",
+        "latlng": {
+            "lat": 1.85917,
+            "lng": 73.5219
+        }
+    },
+    {
+        "name": "Hanimaadhoo Airport",
+        "country": "Maldives",
+        "iata_code": "HAQ",
+        "latlng": {
+            "lat": 6.74423,
+            "lng": 73.1705
+        }
+    },
+    {
+        "name": "Kaadedhdhoo",
+        "country": "Maldives",
+        "iata_code": "KDM",
+        "latlng": {
+            "lat": 0.4880555,
+            "lng": 72.995556
+        }
+    }
+]
